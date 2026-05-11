@@ -1,11 +1,11 @@
 [package]
-name = "rustdesk"
+name = "sugardesk"
 version = "1.4.6"
-authors = ["rustdesk <info@rustdesk.com>"]
+authors = ["sugardesk <support@almoiz.com>"]
 edition = "2021"
 build= "build.rs"
-description = "RustDesk Remote Desktop"
-default-run = "rustdesk"
+description = "SugarDesk Remote Desktop"
+default-run = "Sugardesk"
 rust-version = "1.75"
 
 [lib]
